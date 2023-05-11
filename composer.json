@@ -1,13 +1,13 @@
 {
-  "name": "wapacro/az-keyvault-php",
+  "name": "gquickship/az-keyvault-php",
   "type": "library",
-  "description": "PHP Library to work with Azure KeyVault using managed identity",
+  "description": "PHP Library to work with Azure KeyVault using managed identity - forked from wapacro",
   "keywords": [
     "azure",
     "keyvault",
     "secret"
   ],
-  "homepage": "https://github.com/wapacro/az-keyvault-php",
+  "homepage": "https://github.com/gquickship/az-keyvault-php",
   "license": "MIT",
   "authors": [
     {
